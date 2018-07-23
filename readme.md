@@ -8,7 +8,7 @@ Team: **paiv**
 * http://icfpcontest.org/
 
 
-[<img src="" alt="" width=200>](.png)
+[<img src="model.png" alt="model view" width=307>](model.png)
 
 
 Implementation
@@ -19,6 +19,8 @@ Implementation
 
 Results
 -------
+
+Got a minimum lightning submission, but then carried away and couldn't participate in full.
 
 #### Lightning
 

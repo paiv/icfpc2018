@@ -3,4 +3,5 @@ __pycache__
 .ipynb*
 
 /.venv
-/proto
+/.secrets
+/batch*
